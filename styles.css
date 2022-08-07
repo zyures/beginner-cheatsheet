@@ -1,0 +1,41 @@
+* {
+    font-family: 'Prata', serif;
+    text-align: center;
+}
+
+body, header, footer {
+    background-color: black;
+}
+
+table, td, tr {
+    border: 2px solid aliceblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color:aliceblue;
+}
+
+table .table-headers {
+    font-weight: bold;
+    color:aliceblue;
+}
+
+.code {
+    color:black;
+    background-color: lightgrey;
+}
+
+#HTML {
+    background-color: darkblue;
+    color: aliceblue;
+}
+
+#CSS {
+    background-color:indigo;
+    color:aliceblue;
+}
+
+footer {
+    color:aliceblue;
+    height: auto;
+}
